@@ -56,10 +56,11 @@ strong {
 
 main {
 	border: 1px solid gray;
-	width: 38%; 
+	width: 30%; 
 	margin: auto;
 	background: #fff;
 	margin-top: 25px;
+	padding-bottom: 20px;
 }
 
 form {
@@ -110,5 +111,5 @@ nav a {
 }
 
 footer p {
-	line-height: 0.5;
+	line-height: 0.5; 
 }
